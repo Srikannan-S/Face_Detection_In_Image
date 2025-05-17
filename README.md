@@ -48,9 +48,10 @@ A simple Python project that uses OpenCV and Haar Cascade to detect human faces 
 - Displays the output for 5 seconds before closing.  
 
 📂 Project Structure
-
+```bash
 📁 face-detection-opencv  
 ├── app.py                        # Main Python script  
 ├── cricket.jpg                   # Input image (user-provided)  
 ├── haarcascade_frontalface_default.xml  # Face detection model  
-└── README.md                     # Project documentation  
+└── README.md                     # Project documentation
+```
